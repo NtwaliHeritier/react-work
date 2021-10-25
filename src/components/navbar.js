@@ -12,7 +12,7 @@ const Navbar = () => {
                     <li>About Us</li>
                     <li>Contact Us</li>
                 </ul>
-                <img src={logo} className="nav-img"/>
+                <img src={logo} className="nav-img" alt="nav-img"/>
             </div>
         </div>
      );
