@@ -1,0 +1,14 @@
+.main-div {
+    width: 75%;
+    margin-top: 50px;
+}
+
+.main-div p {
+    width: 75%;
+    margin: auto;
+}
+
+.main-btn {
+    display: block;
+    margin: 20px auto 0;
+}

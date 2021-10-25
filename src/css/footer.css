@@ -1,0 +1,24 @@
+.footer {
+    margin-top: 50px;
+}
+
+.footer-uls {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-ul li:nth-child(1) {
+    list-style-type: square;
+}
+
+.footer-ul li:nth-child(2) {
+    list-style-type: circle;
+}
+
+.footer-ul-li {
+    list-style-type: none;
+}
+
+.footer p {
+    text-align: center;
+}
