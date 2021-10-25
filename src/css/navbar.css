@@ -23,4 +23,5 @@
 .nav-img {
     width: 10%;
     height: 50%;
+    object-fit: contain;
 }
